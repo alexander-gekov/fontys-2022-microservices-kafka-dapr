@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "neat-csv": "^5.2.0",
+    "neat-csv": "^6.0.0",
     "node-rdkafka": "^2.10.1"
   }
 }
